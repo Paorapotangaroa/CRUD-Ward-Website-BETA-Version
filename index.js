@@ -34,7 +34,7 @@ let knex = require("knex")({
         host: "localhost",
         server: "PostgreSQL 12",
         user: "postgres",
-        password: "R3m3mb3r",
+        password: "",
         database: "postgres",
         port: 5432
     },
