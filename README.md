@@ -1,0 +1,1 @@
+BETA version of a Full-Stack App. This app was a CMS that allowed users to sign in, upload images, design posts, and preview them in real time as they made changes. Next 7 days worth of posts were pulled to the home screen and the next 30 days were pulled to the calendar. Images of clients (from the contact page) have been deleted for privacy purposes
